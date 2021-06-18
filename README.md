@@ -1,4 +1,4 @@
-# StudentAttendanceCheck
+#ATMAS
 A student attendance check-in app for Attendance monitoring system
 
 This project is part of my "Phone app for attendance monitoring system" project. The system consists of three part
